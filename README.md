@@ -1,4 +1,6 @@
-Academy387Day3
+Academy387
 ==============
 
-Academy387Day3
+Course: First App in 10 Days
+
+http://www.academy387.com/
